@@ -7,13 +7,14 @@
 
 
 
-### Day 1: June 23, 2021
+### Day 1: July 3rd, 2021
 
 **Today's Progress**
-* 
+* Started with python crash course book
+* completed day 1 and all exercise from 2.1 to 2.11
 
 **Thoughts**
-* 
+* Exercises seemed little easy bcoz I am familir with the basics
 
 **Links to exercise or portfolio**
 *  
