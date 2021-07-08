@@ -3,7 +3,30 @@
 
 
 
+### Day 3: July 5th, 2021
 
+**Today's Progress**
+* 
+
+**Thoughts**
+* 
+
+**Links to exercise or portfolio**
+*
+
+
+
+### Day 2: July 4th, 2021
+
+**Today's Progress**
+* Studying list and its functions.
+* Completed 3.1 to 3.4 exercises from python crash course book
+
+**Thoughts**
+* 
+
+**Links to exercise or portfolio**
+*  
 
 
 
