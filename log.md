@@ -6,10 +6,11 @@
 ### Day 3: July 5th, 2021
 
 **Today's Progress**
-* 
+* worked my way through 4.1 to 4.13 of crash course exercises.
+* The above exercises consists of working with lists, numbers and conditionals
 
 **Thoughts**
-* 
+* Most of the exercise were easy but some were tough requiring few more mins 
 
 **Links to exercise or portfolio**
 *
