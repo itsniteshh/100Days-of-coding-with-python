@@ -3,6 +3,24 @@
 
 
 
+
+
+
+### Day 4: July 6th, 2021
+
+**Today's Progress**
+* worked my way through 5.1 to 5.3 of crash course exercises.
+* The above exercises consists of conditionals and for loops
+
+**Thoughts**
+* 
+
+**Links to exercise or portfolio**
+*
+
+
+
+
 ### Day 3: July 5th, 2021
 
 **Today's Progress**
