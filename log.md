@@ -5,8 +5,18 @@
 
 
 
+### Day 5: July 7th, 2021
 
+**Today's Progress**
+* Completed exercises 5.10 to 6.2 
+* above exercises consists of for loops and if-elif-else conditionals
+* At the end, I also started with Dictionaries
 
+**Thoughts**
+* for loop and conditionals were easy but dictionary is going to be tough
+
+**Links to exercise or portfolio**
+*
 
 
 
