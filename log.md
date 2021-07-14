@@ -5,7 +5,23 @@
 
 
 
-### Day 5: July 7th, 2021
+### Day 6.5: July 9th, 2021
+
+**Today's Progress**
+* I wasn't able to code even for a minute on 9t July, so for making up to it, I will be coding an extra day which will be Day 6.5
+* It consists of exercises 6.3 to 6.7 from the book
+* The exercise consist of dictonaries and while loops with additional conditional statements
+
+
+**Thoughts**
+* for loop and conditionals were easy but dictionary is going to be tough
+
+**Links to exercise or portfolio**
+*
+
+
+
+### Day 6: July 8th, 2021
 
 **Today's Progress**
 * Completed exercises 5.10 to 6.2 
