@@ -4,6 +4,20 @@
 
 
 
+### Day 7: July 10th, 2021
+
+**Today's Progress**
+* Completed exercise 6.8 to 6.12 from crash coure book 
+* It was all about working with dictionaries and conditionals
+
+
+**Thoughts**
+* 
+
+**Links to exercise or portfolio**
+*
+
+
 
 ### Day 6.5: July 9th, 2021
 
@@ -14,7 +28,7 @@
 
 
 **Thoughts**
-* for loop and conditionals were easy but dictionary is going to be tough
+* 
 
 **Links to exercise or portfolio**
 *
