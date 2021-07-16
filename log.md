@@ -4,6 +4,21 @@
 
 
 
+### Day 8: July 11th, 2021
+
+**Today's Progress**
+* Completed exercise 7.1 to 7.5
+* The exercises majorly consist of input functionand while loops
+
+
+**Thoughts**
+* 
+
+**Links to exercise or portfolio**
+* while loops are bit tough compared to other things I have learnt yet
+
+
+
 ### Day 7: July 10th, 2021
 
 **Today's Progress**
