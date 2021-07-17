@@ -3,6 +3,22 @@
 
 
 
+### Day 9: July 12th, 2021
+
+**Today's Progress**
+* Completed exercise 7.5 to 7.7
+* The exercises majorly consist of while loops and 
+* Also completed while loops little projects
+
+
+**Thoughts**
+* 
+
+**Links to exercise or portfolio**
+* need to learn more on while loops
+
+
+
 
 ### Day 8: July 11th, 2021
 
