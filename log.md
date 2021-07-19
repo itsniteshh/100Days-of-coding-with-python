@@ -6,13 +6,22 @@
 ### Day 10: July 13th, 2021
 
 **Today's Progress**
-* Completed exercise 7.8, 7.9 and 7.10 from the book.
-* The exercises majorly consist of while loops in list functions
-
-
+* Today will be a break. need some time of for myself
 
 **Thoughts**
 * 
+**Links to exercise or portfolio**
+* need to learn more on while loops
+
+
+
+### Day 10: July 13th, 2021
+
+**Today's Progress**
+* Completed exercise 7.8, 7.9 and 7.10 from the book.
+* The exercises majorly consist of while loops in list functions
+
+**Thoughts** 
 
 **Links to exercise or portfolio**
 * need to learn more on while loops
