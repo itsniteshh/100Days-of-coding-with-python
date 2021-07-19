@@ -4,13 +4,14 @@
 
 
 
-### Day 10.25: July 14th, 2021
+### Day 11: July 14th, 2021
 
 **Today's Progress**
-* Today will be a break. need some time of for myself
+* Completed exercise 8.1 to 8.5 from crash course book
+* with this I have started with functions
 
 **Thoughts**
-* 
+* Functions till now have been easy to deal with but I've just started too.
 **Links to exercise or portfolio**
 * 
 
