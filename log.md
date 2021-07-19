@@ -3,7 +3,8 @@
 
 
 
-### Day 10: July 13th, 2021
+
+### Day 10.25: July 14th, 2021
 
 **Today's Progress**
 * Today will be a break. need some time of for myself
@@ -11,7 +12,7 @@
 **Thoughts**
 * 
 **Links to exercise or portfolio**
-* need to learn more on while loops
+* 
 
 
 
