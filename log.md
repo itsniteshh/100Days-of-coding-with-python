@@ -3,6 +3,18 @@
 
 
 
+### Day 12: July 15th, 2021
+
+**Today's Progress**
+* Completed exercise 8.6 to 8.9 from crash course book
+* I am still not getting many things from functions but its trying
+
+**Thoughts**
+* Functions till now have been easy to deal with but I've just started too.
+**Links to exercise or portfolio**
+* 
+
+
 
 ### Day 11: July 14th, 2021
 
