@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 **** Note: Any day that specifies "Day NJ5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
+### Day 14: July 17th, 2021
+
+**Today's Progress**
+* Completed exercise 8.111, 12 and few function exercises
+
+
+**Thoughts**
+* 
+**Links to exercise or portfolio**
+* 
+
+
 
 ### Day 13: July 16th, 2021
 
