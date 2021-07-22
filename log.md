@@ -2,6 +2,18 @@
 **** Note: Any day that specifies "Day NJ5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
 
+### Day 13: July 16th, 2021
+
+**Today's Progress**
+* Completed exercise 8.10 and 2 projects
+* The 2 projects are madlibs game and secret word guesser
+
+**Thoughts**
+* The two projects were good to learn many things including while loops and conditionals 
+**Links to exercise or portfolio**
+* 
+
+
 
 ### Day 12: July 15th, 2021
 
