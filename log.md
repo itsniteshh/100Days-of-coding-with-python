@@ -4,6 +4,19 @@
 
 
 
+### Day 16: July 19th, 2021
+
+**Today's Progress**
+* break
+
+
+**Thoughts**
+* 
+**Links to exercise or portfolio**
+* 
+
+
+
 ### Day 15: July 18th, 2021
 
 **Today's Progress**
