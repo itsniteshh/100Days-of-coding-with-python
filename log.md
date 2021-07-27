@@ -7,7 +7,8 @@
 ### Day 16: July 19th, 2021
 
 **Today's Progress**
-* break
+* completed 9.1 to 9.4 of  crash course book
+* started with class and methods 
 
 
 **Thoughts**
