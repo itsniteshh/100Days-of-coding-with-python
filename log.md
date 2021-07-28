@@ -3,6 +3,23 @@
 
 
 
+
+
+### Day 18: July 21th, 2021
+
+**Today's Progress**
+* I was having issues with class and method from pcc book bcz of which I was procrastinating.
+* So I started with Udemy 100 days of python code challenge for
+*  Completed Day 1 to Day 3 projects 
+
+
+**Thoughts**
+* It felt great starting with Udemy again
+**Links to exercise or portfolio**
+* 
+
+
+
 ### Day 17: July 20th, 2021
 
 **Today's Progress**
