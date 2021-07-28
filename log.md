@@ -3,6 +3,19 @@
 
 
 
+### Day 17: July 20th, 2021
+
+**Today's Progress**
+* completed 9.5 to 9.6 of  crash course book
+*  
+
+
+**Thoughts**
+* 
+**Links to exercise or portfolio**
+* 
+
+
 
 ### Day 16: July 19th, 2021
 
