@@ -2,6 +2,36 @@
 **** Note: Any day that specifies "Day NJ5" refers to a day that was mainly full of research, and not so much coding. Since this challenge is to code for one hour a day, I would feel like I was cheating if I was to use those days as actually part of the challenge, even though there was still plenty of learning happening. Regardless, those days and related notes are still present in this log as a reminder of what all was learned and to show that progress was still being made, rather than there just being gaps in the log. ****
 
 
+
+
+
+
+## Day 21: Aug 10, 2021
+
+**Today's progress**
+* completed week 1 of python for everybody course from coursera
+* also done with week 2 which consisted of strings
+
+
+**Thoughts**
+* started again
+**Links to exercise or portfolio**
+* 
+
+
+
+## Day 20: July 26th, 2021
+
+**Today's Progress**
+* Completed password generator project from udemy course
+
+**Thoughts**
+* stuck at part 2 of the project  
+**Links to exercise or portfolio**
+* 
+
+
+
 ### Day 19: July 22th, 2021
 
 **Today's Progress**
@@ -12,8 +42,6 @@
 * It felt great 
 **Links to exercise or portfolio**
 * 
-
-
 
 
 
